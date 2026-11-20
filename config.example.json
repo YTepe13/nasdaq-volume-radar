@@ -1,0 +1,13 @@
+{
+  "app_key": "BURAYA_APP_KEY",
+  "app_secret": "BURAYA_APP_SECRET",
+  "region_id": "us",
+  "top_n": 100,
+  "rank_type": "VOLUME",
+  "nasdaq_only": true,
+  "extra_symbols": "",
+  "refresh_min": 5,
+  "spike_threshold": 3.0,
+  "min_usd_1m": 50000,
+  "sound": true
+}
